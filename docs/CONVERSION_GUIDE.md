@@ -26,7 +26,6 @@ Otherwise it will look for the modules only in your base installation. If there 
 ### Major Variable names changed
 
 The Following Variables need to be changed:
-
 |Tower Variable Name|Controller Variable Name|
 |:---:|:---:|
 |`tower_ad_hoc_commands`|`controller_ad_hoc_commands`|
